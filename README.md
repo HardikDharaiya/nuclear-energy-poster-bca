@@ -16,7 +16,7 @@ This repository contains my **CIE 2 poster presentation on Nuclear Energy**, cre
 ✅ Research & Presentation Skills Development  
 
 📄 **View the full poster below!**  
-![Nuclear Energy Poster](nuclear_energy_poster_jpg.jpg)
+![Nuclear Energy Poster](Nuclear%20Energy%20Poster%20JPG.jpg)
 
 ---
 
